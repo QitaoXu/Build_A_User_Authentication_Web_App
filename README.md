@@ -31,9 +31,9 @@ pip3 install virtualenv
 
 Okay, you are good to start this app.
 
-### Start Todo App
+### Start Authentication App
 
-First, in the directory of Build_An_Todo_App, 
+First, in the directory of Build_A_User_Authentication_App, 
 
 ```
 source ./bin/activate
